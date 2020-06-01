@@ -6,16 +6,20 @@ function Corpo() {
       <div id="corpo_titulo">
         <h2>Objetivo</h2>
       </div>
-      <div id="corpo_texto">
+      <div id="corpo_lista">
+      <ul>
         <li>Estágiar na área de tecnologia da informação</li>
+        </ul>
       </div>
 
       <div id="corpo_titulo">
         <h2>Formação</h2>
       </div>
 
-      <div id="corpo_texto">
+      <div id="corpo_lista">
+      <ul>
         <li>Cursando Técnico em informática no Senac Tatuapé | 2019 - 2020</li>
+        </ul>
       </div>
 
       <div id="corpo_titulo">
